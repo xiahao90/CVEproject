@@ -2,7 +2,7 @@
 ## Description
     The plugin doesn't properly sanitise POST parameter, which result into a Stored Cross-Site Scripting(XSS).
 ## Affects Plugins
-    Splash header<=1.8.8
+    Splash header<=1.20.1
     https://cn.wordpress.org/plugins/splash-header/
 ## Author
     xiahao@webray.com.cn inc  
