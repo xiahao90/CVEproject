@@ -3,7 +3,7 @@
     The plugin doesn't properly sanitise POST parameter, which result into a Stored Cross-Site Scripting(XSS).
 ## Affects Plugins
     Highlight<=0.9.2
-    https://cn.wordpress.org/plugins/splash-header/
+    https://cn.wordpress.org/plugins/highlight/
 ## Author
     xiahao@webray.com.cn inc  
 ## Proof of Concept
