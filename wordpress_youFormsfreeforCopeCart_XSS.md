@@ -7,7 +7,7 @@
 ## Author
     xiahao@webray.com.cn inc  
 ## Proof of Concept
-1,Edit the "youForms free"->"Add new"->"Button text:" text area to "</style><script>setTimeout("alert('17')", 3000 )</script>"
+1,Edit the "youForms free"->"Add new"->"Button text:" text area to "<script>setTimeout("alert('17')", 3000 )</script>"
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20210730175748.png "Wordpress plugin Splash header XSS")
 2,Visit the plugin in details page. We can see the alert page.
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20210730175756.png "Wordpress plugin Splash header XSS")
