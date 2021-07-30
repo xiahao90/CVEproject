@@ -13,5 +13,5 @@
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20210730140948.png "Wordpress plugin Splash header XSS")
 3,Add the shortcode "[highlight-scroll] your expected text here [/highlight-scroll]" on the content of a page/post/etc. to add the plugin into a page
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20210730141007.png "Wordpress plugin Splash header XSS")
-4,Visit the admin home page. We can see the alert page.
+4,Visit the content of a page/post/etc. We can see the alert page.
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20210730141015.png "Wordpress plugin Splash header XSS")
