@@ -3,7 +3,7 @@
     The plugin doesn't properly sanitise POST parameter, which result into a Stored Cross-Site Scripting(XSS).
 ## Affects Plugins
     WP Mapa Politico España<=3.6.2
-    [https://cn.wordpress.org/plugins/wp-mapa-politico-spain/](https://cn.wordpress.org/plugins/wp-mapa-politico-spain/)
+    https://cn.wordpress.org/plugins/wp-mapa-politico-spain/
 ## Author
     xiahao@webray.com.cn inc  
 ## Proof of Concept
