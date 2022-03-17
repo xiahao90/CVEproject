@@ -19,6 +19,6 @@
 ```
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20220317155039.png "DolphinPHP<=1.5.0 Authenticated Stored Cross-Site Scripting(XSS)")
 
-6,Click "user" - > "permission management" - > "user management" to execute the code
+3,Click "user" - > "permission management" - > "user management" to execute the code
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20220317155317.png "DolphinPHP<=1.5.0 Authenticated Stored Cross-Site Scripting(XSS)")
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20220317155341.png "DolphinPHP<=1.5.0 Authenticated Stored Cross-Site Scripting(XSS)")
