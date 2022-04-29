@@ -16,6 +16,6 @@
 <script>alert(123);</script>
 ```
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/16512147091558.png "emlog<=pro-1.2.2 Stored Cross-Site Scripting(XSS)")
-2,The super administrator will trigger the attack code when auditing the article
+3,The super administrator will trigger the attack code when auditing the article
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/16512149073952.png "emlog<=pro-1.2.2 Stored Cross-Site Scripting(XSS)")
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1651214938416.png "emlog<=pro-1.2.2 Stored Cross-Site Scripting(XSS)")
