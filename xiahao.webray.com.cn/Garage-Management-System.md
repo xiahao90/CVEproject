@@ -6,7 +6,7 @@
 ### Version: 1.0
 ### Tested on: windows10 + phpstudy
 
-# 1./login.php
+# 1.CVE-2022-2467
 /login.php SQL injection exists at the login port
 
 ### Sample request POC #1
