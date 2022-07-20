@@ -1,5 +1,5 @@
 ### Exploit Title: Simple E-Learning System - Multiple SQL injections
-### Date: 2022-07/19
+### Date: 2022-07/20
 ### Exploit Author: xiahao@webray.com.cn
 ### Vendor Homepage: https://www.sourcecodester.com
 ### Software Link: https://www.sourcecodester.com/php-simple-e-learning-system-source-code
