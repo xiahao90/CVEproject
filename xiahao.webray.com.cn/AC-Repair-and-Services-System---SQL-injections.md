@@ -24,7 +24,7 @@ id='+AND+GTID_SUBSET(CONCAT(0x717a6a7071%2C(SELECT+(ELT(8125%3D8125%2C1)))%2C0x7
 ### Sqlmap running results
 ![blockchain](https://github.com/xiahao90/CVEproject/raw/main/imgs/1683791329107.jpg "AC Repair and Services System - SQL injections")
 
-### Related Codes ./php-lfis/items/index.php
+### Related Codes /classes/Master.php
 ```
 ...
 	function delete_service(){
