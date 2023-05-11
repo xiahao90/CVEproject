@@ -7,7 +7,7 @@
 ### Tested on: macOs 13.3.1 (a) + phpstudy
 
 
-# 1./admin/lab.php
+# 1./items/index.php
 /?page=items&cid=1 SQL injection exists for parameter Section
 
 ### Sample request POC #1
