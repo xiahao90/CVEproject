@@ -24,7 +24,7 @@ Accept-Language: zh-CN,zh;q=0.9
 Connection: close
 ```
 ### Sqlmap running results
-![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1683787465919.png "Lost and Found Information System - Multiple SQL injections")
+![blockchain](https://github.com/xiahao90/CVEproject/raw/main/imgs/1683787465919.png "Lost and Found Information System - Multiple SQL injections")
 
 ### Related Codes ./php-lfis/items/index.php
 ```
@@ -66,7 +66,7 @@ Content-Disposition: form-data; name="id"
 ------WebKitFormBoundaryBKXTUMQFid7ol6Ro
 ```
 ### Sqlmap running results
-![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1683788337596.png "Lost and Found Information System - Multiple SQL injections")
+![blockchain](https://github.com/xiahao90/CVEproject/raw/main/imgs/1683788337596.png "Lost and Found Information System - Multiple SQL injections")
 
 ### Related Codes ./php-lfis/classes/Master.php
 ```
