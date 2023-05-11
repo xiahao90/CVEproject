@@ -25,6 +25,7 @@ id='+AND+GTID_SUBSET(CONCAT(0x717a6a7071%2Cmd5(1)%2C(SELECT+(ELT(8125%3D8125%2C1
 ![blockchain](https://github.com/xiahao90/CVEproject/raw/main/imgs/1683792001887.jpg "AC Repair and Services System - SQL injections")
 
 ### Related Codes /classes/Master.php
+```
 ...
 function delete_service(){
 	extract($_POST);
