@@ -37,7 +37,6 @@ function delete_service(){
 		$resp['error'] = $this->conn->error;
 	}
 	return json_encode($resp);
-
 }
 ...
 ```
