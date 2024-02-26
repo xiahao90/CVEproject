@@ -20,7 +20,7 @@ http://localhost:8889/?page=attendance&class_id=1%27%20AND%20GTID_SUBSET(CONCAT(
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1708681843042.jpg "Simple Student Attendance System")
 
 
-# 2./?page=attendance（XSS）
+# 2./?page=attendance（XSS）CVE-2024-1834
 /?page=attendance XSS exists for parameter class_date
 
 ### Sample request POC #2
