@@ -1,5 +1,5 @@
 ### Free and Open Source inventory management system - SQLi
-### Date: 2024-02/23
+### Date: 2024-02/26
 ### Exploit Author: xiahao@webray.com.cn
 ### Vendor Homepage: https://www.sourcecodester.com
 ### Software Link: https://www.sourcecodester.com/php/16741/free-and-open-source-inventory-management-system-php-source-code.html
