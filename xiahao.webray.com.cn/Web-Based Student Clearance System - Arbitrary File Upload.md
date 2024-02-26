@@ -1,4 +1,4 @@
-### Free and Web-Based Student Clearance System - Arbitrary File Upload
+### Web-Based Student Clearance System - Arbitrary File Upload
 
 ### Date: 2024-02/26
 ### Exploit Author: xiahao@webray.com.cn
