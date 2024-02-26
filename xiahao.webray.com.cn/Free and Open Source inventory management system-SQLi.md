@@ -1,9 +1,8 @@
-### Exploit Free and Open Source inventory management system - SQLi
+### Free and Open Source inventory management system - SQLi
 ### Date: 2024-02/23
 ### Exploit Author: xiahao@webray.com.cn
 ### Vendor Homepage: https://www.sourcecodester.com
-### Software Link: https://www.sourcecodester.com/php/17018/simple-student-attendance-system-using-php-and-mysql.html
-### Version: 1.0
+### Software Link: https://www.sourcecodester.com/php/16741/free-and-open-source-inventory-management-system-php-source-code.html
 ### Tested on: MacOs13.5 + phpstudy
 
 # /app/ajax/search_sales_report.php（SQL injections）
