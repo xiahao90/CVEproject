@@ -40,7 +40,7 @@ xtusername=admin' AND (SELECT 2131 FROM (SELECT(SLEEP(5)))tfPL) AND 'wOKG'='wOKG
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1708679834535.jpg "employee management system")
 
 
-# 2./Account/login.php
+# 2./Account/login.php (CVE-2024-1833)
 /Account/login.php SQL injection exists for parameter txtemail
 
 ### Sample request POC #2
