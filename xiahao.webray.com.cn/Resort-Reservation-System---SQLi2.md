@@ -38,5 +38,5 @@ Parameter: #1* (URI)
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20260227-150523.png "Resort Reservation System")
 
 ### Vulnerability code
-appointments.php:424
+room_rates.php:55
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20260227-150622.png "Resort Reservation System")
