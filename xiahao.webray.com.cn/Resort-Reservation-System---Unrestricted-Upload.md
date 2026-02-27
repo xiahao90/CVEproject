@@ -20,5 +20,9 @@ GIF89a
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20260227-160548.png "Resort Reservation System")
 
 ### Vulnerability code
-appointments.php:424
+controller.php:45
 ![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20260227-160635.png "Resort Reservation System")
+
+http://localhost:8889/TubiganGarden/admin/mod_amenities/pics/shell.php
+
+![blockchain](https://github.com/xiahao90/CVEproject/blob/main/imgs/20260227-161215.png "Resort Reservation System")
